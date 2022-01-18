@@ -99,6 +99,18 @@ Las etiquetas son un sistema flexible y razonablemente potente para crear semán
 #+CAPTION: Y se puede hacer una búsqueda para ver sólo las historias con una etiqueta concreta
 [[./images/busqueda.png]]
 
+** Ideas para etiquetas (sugerencia)
+
+- $bug$ (indica errores encontrados)
+- $urgente$ (para detectar cosas a las que dedicarse)
+- $epic_1$, $epic_2$... (las /epics/)
+- $backlog$ / $icebox$ (Scrum)
+- $todo$ / $doing$ / $done$ (estados, útil para columnas)
+
+#+REVEAL: split
+
+Una idea sencilla es usar $bug$, $urgente$, $epic_n$ y $icebox$, junto con /milestones/ de fechas (que no sean epics) y asignación de tareas a miembros
+
 * Proyectos
 
 #+CAPTION: GitHub permite crear /proyectos/, que funcionan en combinación con las /issues/
