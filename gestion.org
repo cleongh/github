@@ -105,7 +105,7 @@ Las etiquetas son un sistema flexible y razonablemente potente para crear semán
 - $urgente$ (para detectar cosas a las que dedicarse)
 - $epic_1$, $epic_2$... (las /epics/)
 - $backlog$ / $icebox$ (Scrum)
-- $todo$ / $doing$ / $done$ (estados, útil para columnas)
+- $todo$ / $doing$ / $done$ (estados, redundante si se usan proyectos)
 
 #+REVEAL: split
 
