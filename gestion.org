@@ -127,7 +127,7 @@ GitHub tiene ahora mismo dos tipos: un /[[https://es.wikipedia.org/wiki/Kanban][
 
 #+REVEAL: split
 
-#+CAPTION: O como una lista (con filros y demás)
+#+CAPTION: O como una lista (con filtros y demás)
 [[./images/lista.png]]
 
 * Conclusión
